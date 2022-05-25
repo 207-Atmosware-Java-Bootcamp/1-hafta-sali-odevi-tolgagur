@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #f1f1f1;
+    color: white;
+  }
+.cerceve {
+    background-color: #b20808;
+    width: 700px;
+    height: 600px;
+  }
+
+  .cerceve2 {
+    background-color: #e15252;
+    width: 400px;
+    height: 300px;
+    margin: 150px 150px 150px 150px;
+}
+
+.t1{
+    margin: 100px 35px 45px 55px;
+}
+
